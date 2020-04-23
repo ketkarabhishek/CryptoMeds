@@ -1,3 +1,3 @@
 import Conditions from "./Conditions";
 
-export default Conditions
+export default Conditions;

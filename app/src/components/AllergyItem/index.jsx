@@ -1,3 +1,3 @@
 import AllergyItem from "./AllergyItem";
 
-export default AllergyItem
+export default AllergyItem;

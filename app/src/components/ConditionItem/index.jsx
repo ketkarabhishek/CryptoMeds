@@ -1,3 +1,3 @@
 import ConditionItem from "./ConditionItem";
 
-export default ConditionItem
+export default ConditionItem;

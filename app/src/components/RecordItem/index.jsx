@@ -1,3 +1,3 @@
-import RecordItem from './RecordItem';
+import RecordItem from "./RecordItem";
 
 export default RecordItem;

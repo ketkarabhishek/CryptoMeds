@@ -1,3 +1,3 @@
 import PatientProfile from "./PatientProfile";
 
-export default PatientProfile
+export default PatientProfile;

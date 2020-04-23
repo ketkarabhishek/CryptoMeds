@@ -1,4 +1,3 @@
-import BaseWrapper  from './BaseWrapper';
+import BaseWrapper from "./BaseWrapper";
 
 export default BaseWrapper;
-

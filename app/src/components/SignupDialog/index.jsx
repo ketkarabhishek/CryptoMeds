@@ -1,3 +1,3 @@
 import SignupDialog from "./SignupDialog";
 
-export default SignupDialog
+export default SignupDialog;

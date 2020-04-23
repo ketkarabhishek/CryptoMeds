@@ -1,3 +1,3 @@
-import DashProfile from './DashProfile';
+import DashProfile from "./DashProfile";
 
 export default DashProfile;

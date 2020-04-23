@@ -1,3 +1,3 @@
 import Prescriptions from "./Prescriptions";
 
-export default Prescriptions
+export default Prescriptions;

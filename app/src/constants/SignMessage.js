@@ -1,1 +1,1 @@
-export const MESSAGE = "Sign this message to authenticate."
+export const MESSAGE = "Sign this message to authenticate.";

@@ -1,3 +1,3 @@
-import DrizzleWrapper from './DrizzleWrapper';
+import DrizzleWrapper from "./DrizzleWrapper";
 
 export default DrizzleWrapper;

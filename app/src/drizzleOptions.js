@@ -4,7 +4,6 @@
 // import TutorialToken from "./contracts/TutorialToken.json";
 import MedicalRecords from "./contracts/MedicalRecords.json";
 
-
 const getoptions = {
   web3: {
     block: false,
@@ -12,7 +11,7 @@ const getoptions = {
     fallback: {
       // type: 'ws',
       // url: 'ws://127.0.0.1:7545'
-    }
+    },
   },
   contracts: [MedicalRecords],
   events: {
@@ -22,6 +21,6 @@ const getoptions = {
   polls: {
     accounts: 1500,
   },
-}
+};
 
 export default getoptions;
