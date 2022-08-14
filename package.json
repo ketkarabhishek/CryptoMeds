@@ -21,7 +21,7 @@
   },
   "homepage": "https://github.com/truffle-box/drizzle-box#readme",
   "devDependencies": {
-    "@openzeppelin/contracts": "^2.5.0",
+    "@openzeppelin/contracts": "^4.7.2",
     "prettier": "2.0.5"
   },
   "dependencies": {}
